@@ -1,0 +1,19 @@
+html {
+    background-color: #E7FBFB
+    }
+    body {
+        color: #010B5B;
+        font-family: Tahoma, serif;
+        margin-left: 108px;
+        margin-right: 108px;
+    }
+    
+    h1 {
+        font-size: 4em;
+        color: #010B5B;
+        text-align: center; 
+    }
+    img {
+        padding-right: 20px;
+    }
+   
